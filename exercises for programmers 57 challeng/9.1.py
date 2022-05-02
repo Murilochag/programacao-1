@@ -1,3 +1,5 @@
+# parei nesse aqui
+
 import math
 
 raio = float(input("raio: "))
