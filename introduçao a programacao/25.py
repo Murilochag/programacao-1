@@ -1,0 +1,5 @@
+data = int(input("escreva uma data: "))
+dia = int(data / 10000)
+mes = int((data % 10000) / 100)
+ano = int(data % 100)
+print("dia:",dia,"\nmês",mes,"\nano:",ano)
